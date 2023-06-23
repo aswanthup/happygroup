@@ -1,0 +1,352 @@
+@media screen and (max-width:1024px){
+
+
+}
+
+@media screen and (max-width:920px)
+
+ {
+    .left{
+        display: none;
+    }
+    .right{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+       
+     }
+
+.head20{
+    font-size: 38px;
+}
+
+.links{
+    display: none;
+}
+
+
+}
+
+
+
+ 
+
+@media screen and (max-width:720px){
+    .img-para{
+        flex-direction: column;
+    }
+   
+
+    .main-nav{
+        height: 60px;
+    }
+
+    
+
+    .head h1{
+        font-size:2rem;
+    }
+
+    .discription {
+
+        flex-direction: column;
+
+    }
+
+    .images {
+        flex-direction: column;
+    }
+    .items {
+        flex-direction: column;
+    }
+
+    .left{
+        display: none;
+    }
+
+    .right{
+       width: 100%;
+       align-items: center;
+       justify-content: center;
+    }
+
+
+    .discription .left-section{
+        width: 100%;
+    }
+    .dis2 {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .discription .dis2 h1{
+        font-size: 1rem;
+        line-height: 12px;
+    }
+
+    .btn2{
+        margin-top: 20px;
+
+    }
+.team{
+    flex-direction: column;
+}
+.left-sec{
+    align-items: center;
+    justify-content: center;
+}
+.head23{
+    width:100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.para23{
+    padding: 20px;
+    text-align: justify;
+
+}
+
+.item1{
+    width: 100%;
+    margin-top: 20px;
+     
+}
+
+.items{
+    width: 100%;
+     
+}
+/* our vision */
+.vision2{
+    padding: 20px;
+    
+}  
+.vision-head{
+    width: 100%;
+justify-content: center;
+
+}
+
+.img-4{
+    padding: 40px;
+    margin-bottom: 0px;
+
+}
+
+
+
+
+/* hero 2nd*/
+.discription .left-section {
+    max-width: 100%;
+    color: #297C72;
+    }
+    
+    
+     .dis2{
+        font-size: 1.4rem;
+        line-height: 40px;
+        font-weight: 600;
+        letter-spacing: 2px;
+    }
+    
+    .discription .right-section{
+        width:100%;
+        justify-content: end;
+    }
+   
+     
+    .dis2
+    {
+        font-size:.8rem;
+        line-height:27px;
+        text-align: justify;
+        
+    }
+    
+    
+    .item{
+    
+        background-color: #297C72;
+        width: 10px;
+        height: 130px;
+        border-radius: 50px;
+        margin-right: 20px;
+        }
+
+    }
+    
+
+
+
+@media screen and (max-width:700px) {
+
+    .btn{
+        padding:7px 20px;
+    }
+ 
+    .logo-section h3{
+        font-size:16px;
+    }
+
+    .main-heading{
+        font-size: 25px;
+        color: #006357;
+    }
+    
+    .main-nav{
+        height: 60px;
+    }
+    .logo img{
+        width: 35px;
+         }
+.head20{
+    font-size: 10px;
+    margin-top: 20px;
+}
+.discription .left-section {
+    max-width: 100%;
+    color: #297C72;
+    }
+    
+    
+     .dis2{
+        font-size: 1.4rem;
+        line-height: 40px;
+        font-weight: 600;
+        letter-spacing: 2px;
+    }
+    
+    .discription .right-section{
+        width:100%;
+        justify-content: end;
+    }
+    
+    .btn2{
+        text-decoration: none;
+        background-color: #297C72;
+        padding: 12px 44px;
+        color: white;
+        border-radius: 8px;
+        box-shadow:none;
+        font-size:20px;
+        border: 1px solid white;
+        letter-spacing: 8px;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .dis2
+    {
+        font-size:.8rem;
+        line-height:27px;
+        text-align: justify;
+        
+    }
+    
+    
+    .item{
+    
+        background-color: #297C72;
+        width: 10px;
+        height: 130px;
+        border-radius: 50px;
+        margin-right: 20px;
+        }
+
+        .head20{
+            font-size: 25px;
+        }
+
+        .right img{
+            width: 300px;
+        }
+
+        /* ABOUT */
+
+        .about{
+            padding:20px;
+        }
+
+        .about .p1{
+            margin-top: 20px;
+             text-align: justify;
+             line-height: 30px;
+             color: white;
+             font-size:16px;
+             letter-spacing:2px;
+
+        }
+        .about .p1{
+            margin-top: 10px;
+        }
+
+        .about .p2{
+            font-size:16px;
+            letter-spacing:2px;
+            text-align: justify;
+            line-height: 30px;
+            color: white;
+        }
+        p{
+            font-size: .8rem;
+            font-weight: 300;
+            line-height: 25px;
+
+}
+
+.head23{
+text-align: center;
+}
+
+.para23 p{
+ padding:0px;
+}
+
+
+/* OUR NEXT GEN LEADERS */
+
+.first{
+    flex-direction: column;
+}
+
+.second{
+    flex-direction: column;
+}
+
+.next-head2{
+    justify-content: center;
+}
+.next-head3{
+    justify-content: center;
+}
+
+.next-1{
+    text-align: center;
+}
+.next-2{
+    text-align: center;
+}
+.next3{
+    margin:0px;
+}
+
+.next4{
+    margin:0px;
+}
+.gallery{
+    height:80vh;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.box>span{
+    font-size: 16px;
+    height:20px;
+}
+.box>img{
+    height:40vh;
+}
+}
