@@ -275,7 +275,7 @@ justify-content: center;
              text-align: justify;
              line-height: 30px;
              color: white;
-             font-size:16px;
+             font-size:14px;
              letter-spacing:2px;
 
         }
@@ -284,7 +284,7 @@ justify-content: center;
         }
 
         .about .p2{
-            font-size:16px;
+            font-size:14px;
             letter-spacing:2px;
             text-align: justify;
             line-height: 30px;
@@ -295,6 +295,10 @@ justify-content: center;
             font-weight: 300;
             line-height: 25px;
 
+}
+
+.para20{
+    font-size:14px;
 }
 
 .head23{
